@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\bin\Debug\net6.0\Extension_Helper.exe
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\bin\Debug\net6.0\Extension_Helper.deps.json
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\bin\Debug\net6.0\Extension_Helper.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\bin\Debug\net6.0\Extension_Helper.dll
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\bin\Debug\net6.0\Extension_Helper.pdb
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.dll
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\refint\Extension_Helper.dll
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.pdb
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\Extension_Helper.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\Extension_Helper\Extension_Helper\obj\Debug\net6.0\ref\Extension_Helper.dll
